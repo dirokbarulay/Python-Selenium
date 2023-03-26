@@ -1,4 +1,4 @@
-                        **Pytest Decorators**
+                        ##Pytest Decorators
 
 @pytest.mark.parametrize(): Bir testin işlevinin farklı parametrelerle çalıştırılmasını sağlar.
 
