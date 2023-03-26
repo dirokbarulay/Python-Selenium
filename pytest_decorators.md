@@ -1,6 +1,6 @@
-Pytest Decorators
+                        **Pytest Decorators**
 
-@pytest.mark.parametrize(): Bir testin işlevinin farklı parametrelerleçalıştırılmasına olanak sağlar.
+@pytest.mark.parametrize(): Bir testin işlevinin farklı parametrelerle çalıştırılmasını sağlar.
 
 @pytest.mark.skip(): İstenilen testin bir neden belirleyerek atlanmasını sağlar.
 
